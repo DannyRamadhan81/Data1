@@ -1,92 +1,54 @@
 {
-  "bukulokomedia": [
+  "dbbuku": [
     {
       "id": 1,
-      "judul": "Naskah Asli SuperSemar",
-      "penulis": "Ronald Rusli",
-      "harga": "68.000",
-      "image": "https://th.bing.com/th/id/OIP.vDPAlBTUdYI8nOhwYx6NjwHaE9?pid=ImgDet&rs=1",
-      "sinopsis": "Tidak bisa dipungkiri, GO-JEK menjadi begitu fenomenal dengan layanan Ojek Online yang penuh kreasi dan inovasi. Dalam buku ini, akan dibahas membuat layanan Ojek Online menggunakan PHP dan memanfaatkan GPS (GMAP) secara Realtime. Aplikasi Ojek Online yang akan kita buat memiliki dua fitur utama, yaitu Jek-Send dan Jek-Ride yang fungsi utamanya mengantarkan penumpang atau barang dengan layanan ojek. Tentu saja ada fitur Pencarian Lokasi, Pemilihan Driver Terdekat, Mengatasi Order Fiktif. Selain itu, dilengkapi juga dengan Halaman Admin yg Mengelola Data Seluruh Sistem, termasuk Monitoring dan Laporan."
+      "judul": "Lord Of The Ring",
+      "penulis": "J.R.R Tolkien",
+      "harga": "220.000",
+      "image": "https://th.bing.com/th/id/OIP.tOjOdblZz-y80txqcDspsgHaJ4?pid=ImgDet&rs=1",
+      "sinopsis": "Middle Earth. Masing-masing penghuni dunia Middle Earth memiliki sebuah cincin kekuatan. Penghuni dunia tesebut di antaranya peri, kurcaci, Elf, Orc, Hobbits, Penyihir, manusia, dan makhluk lainnya"
+      
     },
     {
       "id": 2,
       "judul": "The Art Of War",
       "penulis": "Tsun Zu",
-      "harga": "43.800",
-      "image": "http://www.tokolokomedia.com/cover/cover5.jpg",
-      "sinopsis": "Buku ini membahas bagaimana cara kerja para master PHP di perusahaan dalam membangun proyek website secara profesional. Dikupas secara step by step mulai tahap Planning, Designing, Coding, Testing, Promotion, sampai  Maintenance."
+      "harga": "400.000",
+      "image": "https://1.bp.blogspot.com/-tA4oSz5qiN0/X14d7npK8-I/AAAAAAAADlY/wty1juF8Aso2jRA-KiCoB8aN-bCXTIsOwCLcBGAsYHQ/s16000/review-buku-the-art-of-war-sun-tzu.jpeg",
+      "sinopsis": "buku ini membahas tentang strategi-strategi perang dan juga wejangan wejangan tentang perang yang di cetuskan oleh tsun zu yaitu seorang ahli siasat dan filsuf asal tiongkok yang terkenal akan strategi-strategi pertempurannya ."
     },
     {
       "id": 3,
-      "judul": "Panduan Praktis Menguasai Hamon",
-      "penulis": "Joseph Joestar",
-      "harga": "65.000",
-      "image": "http://www.tokolokomedia.com/cover/cover10.jpg",
-      "sinopsis": "Vue.js dibangun dengan pendekatan Approachable yang fokus pada kesederhanaan dan kerapian struktur codingnya - cukup pengetahuan dasar HTML, CSS, dan Javascript - memudahkan pengguna mempelajarinya dengan cepat."
+      "judul": "Skyrim Guide Book Complete Edition",
+      "penulis": "Bethesda",
+      "harga": "120.000",
+      "image": "https://th.bing.com/th/id/OIP.6XAlYMbS9C8Mkhv7WGd9nQAAAA?pid=ImgDet&rs=1",
+      "sinopsis": "Buku Ini berisi panduan lengkap untuk permainan video game Elder Scroll V Skyrim"
     },
     {
       "id": 4,
-      "judul": "The Road Phoneglyph",
-      "penulis": "Joyboy",
-      "harga": "50.000",
-      "image": "http://www.tokolokomedia.com/cover/cover4.jpg",
-      "sinopsis": "Dalam buku ini, OOP akan dibahas secara praktis menggunakan pemrograman PHP. Dimulai dari Konsep Dasar OOP, Penerapan OOP dalam PHP, Pengolahan Database dengan OOP, sampai dengan Studi Kasus tentang pembuatan Aplikasi Pembayaran Angsuran Bank utuh dengan gaya OOP yang dibahas secara langkah demi langkah."
+      "judul": "Warhammer 40k Legion Secret And Lies",
+      "penulis": "Dan Abnett",
+      "harga": "250.000",
+      "image": "https://th.bing.com/th/id/OIP.KMOx-IRkHUpk8vz6xRY3kgAAAA?pid=ImgDet&w=282&h=285&rs=1",
+      "sinopsis": "A Great War is coming, and it will engulf the Imperium of Man. The Space Marines of the Alpha Legion, the last and most secretive of all the Legiones Astartes brotherhoods, arrive on a heathen world to support the Imperial Army in a pacification campaign against strange and uncanny forces.."
     },
     {
       "id": 5,
-      "judul": "Website Super WOW dengan PHP & jQuery",
-      "penulis": "Lukmanul Hakim",
-      "harga": "57.800",
-      "image": "http://www.tokolokomedia.com/cover/cover3.jpg",
-      "sinopsis": "Jadi gua harus bilang WOW! gitu? Ya iyalah, karena didalam buku ini dibahas 2 proyek Website sekaligus yang sangat spesial. Tidak hanya itu, Halaman Administratornya juga nggak kalah canggih lho, dengan tampilan keren khas jQuery disertai efek dan interaktifitas tingkat tinggi menjadikannya layak disebut Website Super WOW!"
+      "judul": "Jujutsu Kaisen",
+      "penulis": "Gege Akutami",
+      "harga": "60.800",
+      "image": "https://th.bing.com/th/id/OIP.S7Iv1aBmlBpyHpuTawj63wHaLH?pid=ImgDet&rs=1",
+      "sinopsis": "Yuuji Itadori adalah siswa sekolah menengha yang sehari - harinya mengunjungi kakeknya yang terbaring di tempat tidur. Meski begitu, ia memilki kemampuan fisik diatas remaja lainnya. Banyak sekali klub olahraga yang mengajak ia untuk bergabung, namun Yuuji lebih memilih Klub Ilmu Gaib.Suatu hari, klub ilmu gaib berhasil mendapatkan benda terkutuk yang disegel. Tetapi sedikit yang mereka tahu mengenai teror yang akan menghantui mereka jika memencahkan segel tersebut."
     },
     {
       "id": 6,
-      "judul": "Rahasia Inti Master PHP dan MySQLi",
-      "penulis": "Lukmanul Hakim",
-      "harga": "75.000",
-      "image": "http://www.tokolokomedia.com/cover/cover6.jpg",
+      "judul": "Harry Potter",
+      "penulis": "J.K Rowlings",
+      "harga": "300.000",
+      "image": "https://ecs7.tokopedia.net/img/cache/700/product-1/2020/6/5/3251066/3251066_cd190ba9-f2e1-4747-a83c-8374d0ec9897_1500_1500.jpg",
       "sinopsis": "Selain didukung dengan Trik-Trik terpilih khas Master PHP. Pada bagian akhir disertakan pula Proyek Hebat Membuat CMS dari Nol, dimulai dari Alur, Konsep, Perancangan dan Pembuatannya, dari Halaman Administrator sampai Halaman Pengunjung yang didesain secara Elegan, Cantik, dan Responsive."
     },
-    {
-      "id": 7,
-      "judul": "Konsep & Implementasi Pemrograman Laravel 5",
-      "penulis": "Awan Pribadi",
-      "harga": "75.000",
-      "image": "http://www.tokolokomedia.com/cover/cover7.jpg",
-      "sinopsis": "Buku ini mencoba membantu Anda untuk mempelajari Laravel dengan cara yang mudah dan menyeluruh (30 BAB). Disajikan dalam bentuk LANGKAH DEMI LANGKAH. Setiap materi disertai STUDI KASUS. Bahkan, ada beberapa materi yang tidak ada dalam dokumentasi resmi LARAVEL."
-    },
-    {
-      "id": 8,
-      "judul": "Menguasai Codeigniter: Aplikasi Perpustakaan",
-      "penulis": "Awan Pribadi",
-      "harga": "108.000",
-      "image": "http://www.tokolokomedia.com/cover/cover8.jpg",
-      "sinopsis": "Buku ini dibagi menjadi dua bagian. Bagian pertama membahas berbagai hal dasar untuk menguasai Codeigniter 3 (Instalasi, Routing, Model, View, Controller, Template Parser, Library, Helper, Database, Form, Session, Validation, Pagination, dsb). Bagian kedua membahas penerapan Codeigniter."
-    },
-    {
-      "id": 9,
-      "judul": "Membangun Website dengan Yii Framework",
-      "penulis": "Sharive",
-      "harga": "68.800",
-      "image": "http://www.tokolokomedia.com/cover/cover9.jpg",
-      "sinopsis": "Yii Framework sebagai salah satu Framework PHP Terbaik tentu memiliki kemampuan dalam menangani fitur-fitur canggih website. Selain sedikit membahas Dasar-Dasar Yii Framework, buku ini juga membahas Teknik Yii Framework Tingkat Lanjut."
-    },
-    {
-      "id": 10,
-      "judul": "Jalan Pintas Menjadi Master ReactJS",
-      "penulis": "Lukmanul Hakim",
-      "harga": "90.000",
-      "image": "http://www.tokolokomedia.com/cover/cover1.jpg",
-      "sinopsis": "Pengen tau caranya bikin Aplikasi Zaman Now? Anda harus kenal dengan ReactJS, sebuah library Javascript untuk membangun User Interface yang dibuat oleh Facebook. Aplikasi yang dibuat ReacJS terlihat super cepat, stabil, responsif, interaktif dan cool."
-    },
-    {
-      "id": 11,
-      "judul": "Konsep & Implementasi Pemrograman Laravel 7",
-      "penulis": "Lukmanul Hakim",
-      "harga": "82.000",
-      "image": "http://www.tokolokomedia.com/cover/cover11.jpg",
-      "sinopsis": "Buku ini akan membantu Anda untuk mempelajari Laravel 7 dengan cara mudah. Disajikan dalam bentuk Langkah Demi Langkah. Setiap materi disertai Studi Kasus. Bahkan, beberapa materi tidak ada dalam dokumentasi resmi Laravel."
-    }
+    
   ]
 }
