@@ -1,0 +1,40 @@
+{
+  "bestseller": [
+    {
+      "id": 1,
+      "judul": "Harry Potter",
+      "penulis": "J.K Rowlings",
+      "harga": "300.000",
+      "image": "https://ecs7.tokopedia.net/img/cache/700/product-1/2020/6/5/3251066/3251066_cd190ba9-f2e1-4747-a83c-8374d0ec9897_1500_1500.jpg",
+      "sinopsis": "Harry memulai tahun ketiganya di Hogwarts dengan tidak cukup menyenangkan. Secara ceroboh dia menyihir bibi Merge, kemudian melarikan diri. Di tengah perjalanannya, dia membaca berita tentang kaburnya seorang tawanan berbahaya, Sirius Black, yang dirumorkan ingin membunuhnya.."
+    },
+   
+    {
+      "id": 2,
+      "judul": "The Art Of War",
+      "penulis": "Tsun Zu",
+      "harga": "400.000",
+      "image": "https://1.bp.blogspot.com/-tA4oSz5qiN0/X14d7npK8-I/AAAAAAAADlY/wty1juF8Aso2jRA-KiCoB8aN-bCXTIsOwCLcBGAsYHQ/s16000/review-buku-the-art-of-war-sun-tzu.jpeg",
+      "sinopsis": "buku ini membahas tentang strategi-strategi perang dan juga wejangan wejangan tentang perang yang di cetuskan oleh tsun zu yaitu seorang ahli siasat dan filsuf asal tiongkok yang terkenal akan strategi-strategi pertempurannya ."
+    },
+    {
+      "id": 3,
+      "judul": "Skyrim Guide Book Complete Edition",
+      "penulis": "Bethesda",
+      "harga": "120.000",
+      "image": "https://th.bing.com/th/id/OIP.6XAlYMbS9C8Mkhv7WGd9nQAAAA?pid=ImgDet&rs=1",
+      "sinopsis": "Buku Ini berisi panduan lengkap untuk permainan video game Elder Scroll V Skyrim"
+    },
+    {
+      "id": 4,
+      "judul": "Warhammer 40k Legion Secret And Lies",
+      "penulis": "Dan Abnett",
+      "harga": "250.000",
+      "image": "https://th.bing.com/th/id/OIP.KMOx-IRkHUpk8vz6xRY3kgAAAA?pid=ImgDet&w=282&h=285&rs=1",
+      "sinopsis": "A Great War is coming, and it will engulf the Imperium of Man. The Space Marines of the Alpha Legion, the last and most secretive of all the Legiones Astartes brotherhoods, arrive on a heathen world to support the Imperial Army in a pacification campaign against strange and uncanny forces.."
+    },
+   
+    
+    
+  ]
+}
